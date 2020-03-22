@@ -16,4 +16,4 @@ Python script to download from wistia player
 ## Created by 
 
 [Abdelaali es salmi](https://github.com/salmiabdlali) &
-[Amine tahiri](https://github.com/aminetahiri1998)
+[Amine tahiri](https://github.com/atah1r1)
